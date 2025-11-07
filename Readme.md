@@ -332,11 +332,9 @@ There are different types of memory, each with its own purpose and speed.
 
 ### Memory Hierarchy Pyramid
 
-![Memory hierarchy pyramid](images/memory_pyramid.png "Memory hierarchy pyramid")
-
 **Labels (top → bottom):**
 
-![pyramid](https://www.researchgate.net/publication/319529366/figure/fig1/AS:535981658828805@1504799393590/The-memory-hierarchy-pyramid.png)
+![pyramid](https://www.researchgate.net/profile/Jalil-Boukhobza/publication/319529366/figure/fig1/AS:535981658828805@1504799393590/The-memory-hierarchy-pyramid.png)
 
 The **Memory Hierarchy** represents how computer storage is organized based on **speed**, **cost**, and **capacity**.  
 It shows the relationship between different types of memory — from the fastest and smallest to the slowest and largest.
@@ -357,19 +355,17 @@ As we move **up** the pyramid:
 
 Below is a representation of the different memory levels in a computer system:
 
-pgsql
-Copiar código
-+----------------------------+
-| Registers |
-+----------------------------+
-| Cache Level 1 (L1) |
-+----------------------------+
-| Cache Level 2 (L2) |
-+----------------------------+
-| Main Memory (DRAM) |
-+----------------------------+
-| Secondary Memory (HDD/SSD) |
-+----------------------------+
++----------------------------+\
+| Registers | \
++----------------------------+\
+| Cache Level 1 (L1) | \
++----------------------------+ \
+| Cache Level 2 (L2) | \
++----------------------------+ \
+| Main Memory (DRAM) | \
++----------------------------+ \
+| Secondary Memory (HDD/SSD) | \
++----------------------------+ \
 | Tertiary Storage (Cloud, |
-| Distributed Systems) |
+| Distributed Systems) | \
 +----------------------------+
