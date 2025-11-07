@@ -334,7 +334,7 @@ There are different types of memory, each with its own purpose and speed.
 
 **Labels (top → bottom):**
 
-![pyramid](https://www.researchgate.net/profile/Jalil-Boukhobza/publication/319529366/figure/fig1/AS:535981658828805@1504799393590/The-memory-hierarchy-pyramid.png)
+![pyramid](images/pyramid.png)
 
 The **Memory Hierarchy** represents how computer storage is organized based on **speed**, **cost**, and **capacity**.  
 It shows the relationship between different types of memory — from the fastest and smallest to the slowest and largest.
