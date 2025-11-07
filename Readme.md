@@ -351,7 +351,7 @@ As we move **up** the pyramid:
 - Cost per bit **increases**
 - Storage capacity **decreases**
 
-####\*\*\*\* 🔺 Memory Hierarchy Pyramid Representation
+#### 🔺 Memory Hierarchy Pyramid Representation
 
 Below is a representation of the different memory levels in a computer system:
 
