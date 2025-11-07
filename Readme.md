@@ -37,7 +37,7 @@
       - [Summary Table](#summary-table-1)
       - [Additional Notes](#additional-notes-1)
     - [Memory Hierarchy Pyramid](#memory-hierarchy-pyramid)
-  - [🔺 Memory Hierarchy Pyramid](#-memory-hierarchy-pyramid)
+      - [🔺 Memory Hierarchy Pyramid Representation](#-memory-hierarchy-pyramid-representation)
 
 # Storage Devices
 
@@ -351,7 +351,7 @@ As we move **up** the pyramid:
 - Cost per bit **increases**
 - Storage capacity **decreases**
 
-## 🔺 Memory Hierarchy Pyramid
+####\*\*\*\* 🔺 Memory Hierarchy Pyramid Representation
 
 Below is a representation of the different memory levels in a computer system:
 
